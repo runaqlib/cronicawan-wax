@@ -2,7 +2,7 @@
 layout: page
 show_title: false
 banner:
-  collection: qatar
+  collection: cronicawan
   pid: obj10
   y: 25%
   clickable: yes
@@ -16,4 +16,4 @@ The collection items in this demo are from The Museum of Islamic Art, Qatar, (co
 ### Browse the Collection
 
 #### By Item Type
-{% include collection_gallery.html facet_by='object_type' collection='qatar' %}
+{% include collection_gallery.html facet_by='object_type' collection='cronicawan' %}
