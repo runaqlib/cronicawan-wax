@@ -1,3 +1,6 @@
+---
+layout: none
+---
 {
   "@context": "http://iiif.io/api/image/2/context.json",
   "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/obj11_07",

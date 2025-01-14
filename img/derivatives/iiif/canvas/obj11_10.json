@@ -1,3 +1,6 @@
+---
+layout: none
+---
 {
   "@type": "sc:Canvas",
   "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/obj11_10.json",

@@ -1,0 +1,91 @@
+---
+layout: none
+---
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/collection/cronicawan.json",
+  "@type": "sc:Collection",
+  "label": "cronicawan",
+  "manifests": [
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj10/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "obj10"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj16/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "obj16"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj11/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "obj11"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj02/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "obj02"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj05/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "obj05"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj04/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "obj04"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj03/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "obj03"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj14/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "obj14"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj13/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "obj13"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj12/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "obj12"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj15/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "obj15"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj08/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "obj08"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj06/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "obj06"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj01/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "obj01"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj07/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "obj07"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj09/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "obj09"
+    }
+  ]
+}
