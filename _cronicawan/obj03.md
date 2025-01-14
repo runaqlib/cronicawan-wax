@@ -10,7 +10,10 @@ edition: '3'
 object_type: Periódico
 location: 'Lima, Peru '
 language: que
-order: '02'
+order: '2'
 layout: cronicawan_item
 collection: cronicawan
+thumbnail: "/img/derivatives/iiif/images/obj03_00/full/250,/0/default.jpg"
+full: "/img/derivatives/iiif/images/obj03_00/full/1140,/0/default.jpg"
+manifest: "/img/derivatives/iiif/obj03/manifest.json"
 ---

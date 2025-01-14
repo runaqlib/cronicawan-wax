@@ -11,6 +11,7 @@ layout: none
     "object_type": "Periódico",
     "location": "Lima, Peru ",
     "collection": "cronicawan",
+    "thumbnail": "/img/derivatives/iiif/images/obj10_00/full/250,/0/default.jpg",
     "permalink": "/cronicawan/obj10",
     "lunr_id": 0
   },
@@ -23,6 +24,7 @@ layout: none
     "object_type": "Periódico",
     "location": "Lima, Peru ",
     "collection": "cronicawan",
+    "thumbnail": "/img/derivatives/iiif/images/obj04_00/full/250,/0/default.jpg",
     "permalink": "/cronicawan/obj04",
     "lunr_id": 1
   },
@@ -35,6 +37,7 @@ layout: none
     "object_type": "Revista",
     "location": "Lima, Peru ",
     "collection": "cronicawan",
+    "thumbnail": "/img/derivatives/iiif/images/obj14_00/full/250,/0/default.jpg",
     "permalink": "/cronicawan/obj14",
     "lunr_id": 2
   },
@@ -47,6 +50,7 @@ layout: none
     "object_type": "Periódico",
     "location": "Lima, Peru ",
     "collection": "cronicawan",
+    "thumbnail": "/img/derivatives/iiif/images/obj05_00/full/250,/0/default.jpg",
     "permalink": "/cronicawan/obj05",
     "lunr_id": 3
   },
@@ -59,6 +63,7 @@ layout: none
     "object_type": "Revista",
     "location": "Lima, Peru ",
     "collection": "cronicawan",
+    "thumbnail": "/img/derivatives/iiif/images/obj15_00/full/250,/0/default.jpg",
     "permalink": "/cronicawan/obj15",
     "lunr_id": 4
   },
@@ -71,6 +76,7 @@ layout: none
     "object_type": "Periódico",
     "location": "Lima, Peru ",
     "collection": "cronicawan",
+    "thumbnail": "/img/derivatives/iiif/images/obj01_0/full/250,/0/default.jpg",
     "permalink": "/cronicawan/obj01",
     "lunr_id": 5
   },
@@ -83,6 +89,7 @@ layout: none
     "object_type": "Periódico",
     "location": "Lima, Peru ",
     "collection": "cronicawan",
+    "thumbnail": "/img/derivatives/iiif/images/obj11_00/full/250,/0/default.jpg",
     "permalink": "/cronicawan/obj11",
     "lunr_id": 6
   },
@@ -95,6 +102,7 @@ layout: none
     "object_type": "Periódico",
     "location": "Lima, Peru ",
     "collection": "cronicawan",
+    "thumbnail": "/img/derivatives/iiif/images/obj08_00/full/250,/0/default.jpg",
     "permalink": "/cronicawan/obj08",
     "lunr_id": 7
   },
@@ -107,6 +115,7 @@ layout: none
     "object_type": "Periódico",
     "location": "Lima, Peru ",
     "collection": "cronicawan",
+    "thumbnail": "/img/derivatives/iiif/images/obj09_00/full/250,/0/default.jpg",
     "permalink": "/cronicawan/obj09",
     "lunr_id": 8
   },
@@ -119,6 +128,7 @@ layout: none
     "object_type": "Periódico",
     "location": "Lima, Peru ",
     "collection": "cronicawan",
+    "thumbnail": "/img/derivatives/iiif/images/obj06_00/full/250,/0/default.jpg",
     "permalink": "/cronicawan/obj06",
     "lunr_id": 9
   },
@@ -131,6 +141,7 @@ layout: none
     "object_type": "Revista",
     "location": "Lima, Peru ",
     "collection": "cronicawan",
+    "thumbnail": "/img/derivatives/iiif/images/obj16_00/full/250,/0/default.jpg",
     "permalink": "/cronicawan/obj16",
     "lunr_id": 10
   },
@@ -143,6 +154,7 @@ layout: none
     "object_type": "Periódico",
     "location": "Lima, Peru ",
     "collection": "cronicawan",
+    "thumbnail": "/img/derivatives/iiif/images/obj02_00/full/250,/0/default.jpg",
     "permalink": "/cronicawan/obj02",
     "lunr_id": 11
   },
@@ -155,6 +167,7 @@ layout: none
     "object_type": "Revista",
     "location": "Lima, Peru ",
     "collection": "cronicawan",
+    "thumbnail": "/img/derivatives/iiif/images/obj12_00/full/250,/0/default.jpg",
     "permalink": "/cronicawan/obj12",
     "lunr_id": 12
   },
@@ -167,6 +180,7 @@ layout: none
     "object_type": "Periódico",
     "location": "Lima, Peru ",
     "collection": "cronicawan",
+    "thumbnail": "/img/derivatives/iiif/images/obj03_00/full/250,/0/default.jpg",
     "permalink": "/cronicawan/obj03",
     "lunr_id": 13
   },
@@ -179,6 +193,7 @@ layout: none
     "object_type": "Revista",
     "location": "Lima, Peru ",
     "collection": "cronicawan",
+    "thumbnail": "/img/derivatives/iiif/images/obj13_00/full/250,/0/default.jpg",
     "permalink": "/cronicawan/obj13",
     "lunr_id": 14
   },
@@ -191,6 +206,7 @@ layout: none
     "object_type": "Periódico",
     "location": "Lima, Peru ",
     "collection": "cronicawan",
+    "thumbnail": "/img/derivatives/iiif/images/obj07_00/full/250,/0/default.jpg",
     "permalink": "/cronicawan/obj07",
     "lunr_id": 15
   }

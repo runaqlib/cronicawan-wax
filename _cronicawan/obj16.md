@@ -9,8 +9,11 @@ _tags:
 edition:
 object_type: Revista
 location: 'Lima, Peru '
-language: que;esp
+language: esp
 order: '15'
 layout: cronicawan_item
 collection: cronicawan
+thumbnail: "/img/derivatives/iiif/images/obj16_00/full/250,/0/default.jpg"
+full: "/img/derivatives/iiif/images/obj16_00/full/1140,/0/default.jpg"
+manifest: "/img/derivatives/iiif/obj16/manifest.json"
 ---
