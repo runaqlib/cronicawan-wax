@@ -98,24 +98,25 @@ search:
 # submenu via `sub`.
 
 menu:
-  - label: 'About'
+  - label: "About"
     sub:
-      - label: 'About Cronicawan'
-        link: '/about/'
-      - label: 'About the Digitization Project'
-        link: '/digitization-project/'
-  - label: 'Exhibits'
+      - label: "About Cronicawan"
+        link: "/about-cronicawan/"
+      - label: "About the Digitization Project"
+        link: "/digitization-project/"
+  - label: "Exhibits"
     sub:
-      - label: 'Inline Parallax Image'
-        link: '/exhibits/a/'
-      - label: 'Inline Image References'
-        link: '/exhibits/b/'
-  - label: 'Index'
-      - link: '/index/'
-  - label: 'Browse'
-    link: '/collection/'
-  - label: 'Search'
-    link: '/search/'
+      - label: "Inline Parallax Image"
+        link: "/exhibits/a/"
+      - label: "Inline Image References"
+        link: "/exhibits/b/"
+  - label: "Index"
+    link: "/index/"
+  - label: "Browse"
+    link: "/collection/"
+  - label: "Search"
+    link: "/search/"
+
 
 # --------------------------------------------------------------
 # SITE FOOTER SETTINGS

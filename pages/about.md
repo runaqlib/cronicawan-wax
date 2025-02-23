@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About Cronicawan
-permalink: /about/
+title: Cronicawan's Context
+permalink: /about-cronicawan/
 ---
 ## About the Revolutionary Government of Armed Forces
 
