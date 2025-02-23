@@ -1,7 +1,15 @@
+<style>
+  .site-logo {
+    max-height: 50px;
+    display: inline-block;
+    vertical-align: middle;
+  }
+</style>
+
 <nav id='wax-header' class='navbar navbar-expand-lg navbar-light'>
- <div class='wax-inline-container'>
+  <div class='wax-inline-container'>
     <a class='navbar-brand' href="{{ '/' | absolute_url }}" title='Home'>
-      {{ site.title | newline_to_br }}
+      <img src="{{ '/img/logo.png' | absolute_url }}" alt="{{ site.title }}" class="site-logo">
     </a>
 
     <button class='navbar-toggler' type='button' data-toggle='collapse' data-target='#wax-header-navbar' aria-controls='wax-header-navbar' aria-expanded='false' aria-label='navigation'>
