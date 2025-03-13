@@ -13,11 +13,6 @@ layout: none
       "label": "obj10"
     },
     {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj16/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj16"
-    },
-    {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj11/manifest.json",
       "@type": "sc:Manifest",
       "label": "obj11"

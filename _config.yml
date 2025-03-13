@@ -59,6 +59,9 @@ kramdown:
 collections:
   exhibits:
     output: true
+  transcriptions:
+    output: true
+    permalink: /:path/
   cronicawan: # name of collection
     output: true # makes sure pages are output as html files
     layout: 'cronicawan_item' # the layout for the pages to use
@@ -104,12 +107,16 @@ menu:
         link: "/about-cronicawan/"
       - label: "About the Digitization Project"
         link: "/digitization-project/"
-  - label: "Exhibits"
+  - label: "Topics"
     sub:
-      - label: "Inline Parallax Image"
+      - label: "Agrarian Reform"
         link: "/exhibits/a/"
-      - label: "Inline Image References"
+      - label: "Extractivism"
         link: "/exhibits/b/"
+      - label: "Community Submissions"
+        link: "/exhibits/c/"
+      - label: "Quechua Use"
+        link: "/exhibits/d/"
   - label: "Index"
     link: "/index/"
   - label: "Browse"
@@ -126,11 +133,9 @@ menu:
 footer:
   links:
     - label: 'GitHub'
-      link: 'https://github.com/minicomp/wax'
+      link: 'https://github.com/runaqlib/cronicawan-wax'
     - label: 'Credits'
       link: '/credits'
-    - label: 'Wiki'
-      link: 'https://minicomp.github.io/wiki/wax/'
   logos:
     - img: '/img/logo.png'
 

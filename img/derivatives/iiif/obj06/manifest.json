@@ -20,6 +20,16 @@ layout: none
           "label": "Page 1",
           "width": 2117,
           "height": 3300,
+          "metadata": [
+            {
+              "label": "Transcription (English)",
+              "value": "### Llank'aspan Hatunyananchis (To grow, we must work)\n\nLet it be set in stone. **With people working, our land will only bear fruit.**\n\nWith the hard work and energy of the people, we will raise our country to the top by planting every flower. \n\n---\n\nThis struggle is for our collective strength."
+            },
+            {
+              "label": "Transcription (Spanish)",
+              "value": "### Llank'aspan Hatunyananchis (Para crecer hay que trabajar)\n\nQue quede bien claro. **Con el trabajo de la gente, nuestra tierra sólo dará frutos.**\n\nCon el trabajo duro y la energía de la gente, llevaremos a nuestro país a lo más alto plantando cada flor. \n\n---\n\nEsta lucha es por nuestra fuerza colectiva."
+            }
+          ],
           "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/obj06_00/full/250,/0/default.jpg",
           "images": [
             {

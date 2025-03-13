@@ -3,13 +3,12 @@ pid: obj06
 creator: Guillermo Thorndike; Angel Avendaño
 filename: LLANKASPAN_HATUNYANANCHIS.pdf
 label: Llank'aspan Hatunyananchis
-_date: '1975-07-08'
+_date: " 8 Jul, 1975"
 description:
 _tags:
 edition: '6'
 object_type: Periódico
 location: 'Lima, Peru '
-language: que
 order: '5'
 layout: cronicawan_item
 collection: cronicawan
