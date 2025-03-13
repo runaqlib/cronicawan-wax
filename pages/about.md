@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Cronicawan's Context
 permalink: /about-cronicawan/
 ---
 ## About the Revolutionary Government of Armed Forces
@@ -24,32 +23,4 @@ Cronicawan’s editors and main contributors included Guillermo Thorndike, Angel
 **What did _Cronicawan_ include?**  
 Cronicawan emerged as a product of the ideological shifts emphasized in the Velasco government, serving not only as a medium for state messaging but also as a platform where Quechua speakers could engage with national and international affairs through their own linguistic and cultural lens. 
 
-_Cronicawan_ included sections for national news, international news, reader submissions, art and poetry, and resources for learning Quechua. The tagline, _Revolusionpa Rimaynin_, can be translated as "Talk of the Revolution" or "The Revolution Speaks". See the **Index** for full documentation of the issues displayed on this site and their layouts.
-
-## Index
-
-Wax was created for individuals and groups who either don't have or don't want to use a lot of resources to create their scholarly or cultural exhibits. It's best suited for folks who are willing to take on some technical responsibility in exchange for a lot of flexibility.
-
-For beginners, Wax has a relatively high, but general-purpose learning curve. To get the most out of Wax, you should have some familiarity with:
-
-- Using an interactive shell (e.g., Bash/Terminal) to install and interact with programs, files, and directories on your local computer.
-- Using Git and GitHub to version control and collaborate on projects.
-- Using Jekyll to generate static sites.
-- Creating and normalizing data files (e.g., CSV, JSON, YAML)
-- Using file-naming conventions and best practices.
-- Editing HTML, CSS, and some JavaScript.
-
-**However, Wax is also great for teaching or learning the skills above!** For examples of digital pedagogy via the creation of Wax exhibitions, check out [this workshop](https://studentcouncil.college.columbia.edu/events/introduction-minimal-computing-humanities-building-exhibit-primary-sources-using-wax), [this GitHub repository](https://github.com/stylerevolution/stylerevolution.github.io), and [this custom Wax site](https://stylerevolution.github.io/).
-
-**Wax is also phenomenal for professionals who play a facilitating role**, such as Digital Scholarship Librarians or Coordinators. With some practice, Wax substantially reduces the time to production and post-production maintenance costs for you and your team. In the most common scenario, students, faculty, colleagues or any other collaborators just have to provide you with a properly formatted spreadsheet and the text for the exhibits. The extras are up to you.
-
-
-## So what does the Wax workflow *look like?*
-
-Below is a diagram to give you a zoomed-out view. In summary, you create a file of metadata records for your collection (in CSV, YAML, or JSON format), organize your collection image files, and put both in the Jekyll site folder. After updating your configuration, you run a few command line tasks to prepare the data and metadata for use by the Jekyll site. Jekyll then uses special layouts and Wax components to build the exhibit and spits them out as static pages ready to publish.
-
-From there, you can run tests on your site to catch errors and decide where and how to put it online or in offline media.
-
-<a href="{{ '/img/wax_workflow.jpg' | absolute_url }}">
-  <img src="{{ '/img/wax_workflow.jpg' | absolute_url }}" alt="workflow diagram for wax process"/>
-</a>
+_Cronicawan_ included sections for national news, international news, reader submissions, art and poetry, and resources for learning Quechua. The tagline, _Revolusionpa Rimaynin_, can be translated as "Talk of the Revolution" or "The Revolution Speaks". See the <a href="/cronicawan-wax/index/">Index</a> for full documentation of the issues displayed on this site and their layouts.

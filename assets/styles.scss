@@ -47,5 +47,32 @@ $footer-height:   250px;
 font & asset import
 */
 
+/* Custom layout styles for generic_collection_item */
+.content-container {
+    display: flex;          /* Enables flexbox for side-by-side layout */
+    gap: 20px;              /* Adds space between sections */
+    align-items: flex-start; /* Aligns content at the top */
+}
+
+.image-viewer, .transcription-viewer {
+    flex: 1;               /* Ensures each takes up 50% */
+    min-width: 0;          /* Prevents overflow */
+}
+
+.item-view {
+    width: 100%;           /* Ensures the image viewer takes full width */
+    max-height: 80vh;      /* Prevents excessive height */
+    overflow: hidden;      /* Hides overflow content */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.pagination-link {
+    display: inline-block;
+    padding: 10px;
+}
+
+
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,700&font-display=auto');
 @import 'wax';

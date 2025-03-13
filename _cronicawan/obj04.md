@@ -3,13 +3,12 @@ pid: obj04
 creator: Guillermo Thorndike; Angel Avendaño
 filename: WINAYPAQ_SAYARIYKU.pdf
 label: Wiñaypaq Sayariyku
-_date: '1975-06-24'
+_date: " 24 Jun, 1975"
 description:
 _tags:
 edition: '4'
 object_type: Periódico
 location: 'Lima, Peru '
-language: que
 order: '3'
 layout: cronicawan_item
 collection: cronicawan
