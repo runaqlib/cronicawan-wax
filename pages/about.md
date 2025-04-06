@@ -2,13 +2,14 @@
 layout: page
 permalink: /about-cronicawan/
 ---
+
 ## About the Revolutionary Government of Armed Forces
 
-Following a coup in 1968, Juan Velasco Alvarado assumed the position of President for the new _Gobierno Revolucionario de las Fuerzas Armadas_ (Revolutionary Government of Armed Forces). This government quickly implemented a series of leftist reforms to address the historical injustices of the Peruvian state. Most notably, Velasco was concerned with the treatment of the Quechua- and Aymara-speaking _campesino_ (rural) populations of Peru.
+Following a coup in 1968, Juan Velasco Alvarado assumed the position of President for the new _Gobierno Revolucionario de las Fuerzas Armadas_ (Revolutionary Government of Armed Forces). This government quickly implemented a series of leftist reforms to address the historical injustices of the Peruvian state. Most notably, Velasco was concerned with the treatment of Indigenous peasant and _campesino_ (rural) populations of Peru.
 
 During this time, Velasco passed a variety of reforms focused on economic redistribution, including refinancing the national debt, agrarian reform, and a major investment into education, health, and housing. These reforms also included the nationalization of news media (1974) and the official recognition of Quechua language as an equally valid language to Spanish in education, law, and government.
 
-These conditions are what made the creation of _Cronicawan_, a state-supported Quechua-language newspaper, possible. 
+These conditions are what made the creation of _Cronicawan_, a state-supported Quechua-language newspaper, possible.
 
 ## About _Cronicawan_
 
@@ -17,10 +18,13 @@ Cronicawan ran for 16 or 17 issues _(yupana)_ from June _(Inti Raymi Killa)_ to 
 
 The collection displayed here contains 15 issues of the extant 16 or 17 issues. See the page **About the Digitization Project** for more details.
 
-**Who created _Cronicawan_?**  
-Cronicawan’s editors and main contributors included Guillermo Thorndike, Angel Avendaño, Luis Gonzales Posada, and Hernando Aguirre Gamio. Thorndike, a Lima-based journalist was deeply involved in the journalistic scene before the expropriation of newspapers by Velasco. He founded the newspaper Ojo, which was named specifically in Decreto Ley No. 20681, and was later the directorate of the newspapers La Tercera and La Crónica. Angel Avendaño, Luis Gonzales Posada, and Hernando Aguirre were Cusco-born, Lima-based Quechua speakers who wrote a majority of the articles within the newspaper. 
+### Who created _Cronicawan_?
 
-**What did _Cronicawan_ include?**  
-Cronicawan emerged as a product of the ideological shifts emphasized in the Velasco government, serving not only as a medium for state messaging but also as a platform where Quechua speakers could engage with national and international affairs through their own linguistic and cultural lens. 
+Cronicawan’s many editors and contributors included Guillermo Thorndike, Angel Avendaño, Luis Gonzales Posada, William Hurtado de Mendoza, and Hernando Aguirre Gamio. Thorndike, a Lima-based journalist, was deeply involved in the journalistic scene before the expropriation of newspapers by Velasco. He founded the newspaper _La República_, which was named specifically in Decreto Ley No. 20681, and was later the directorate of the newspapers _La Tercera_ and _La Crónica_. Avendaño and Hurtado de Mendoza were both from Cusco and bilingual Quechua/Spanish speakers. The two published poetry in both languages and wrote a majority of the reflection pieces throughout the newspapers.
 
-_Cronicawan_ included sections for national news, international news, reader submissions, art and poetry, and resources for learning Quechua. The tagline, _Revolusionpa Rimaynin_, can be translated as "Talk of the Revolution" or "The Revolution Speaks". See the <a href="/cronicawan-wax/index/">Index</a> for full documentation of the issues displayed on this site and their layouts.
+
+### What did _Cronicawan_ include?
+
+Cronicawan emerged as a product of the ideological shifts emphasized in the Velasco government, serving not only as a medium for state messaging but also as a platform where Quechua speakers could engage with national and international affairs through their own linguistic and cultural lens.
+
+_Cronicawan_ included sections for national news, international news, reader submissions, art and poetry, and resources for learning Quechua. The tagline, _Revolusionpa Rimaynin_, can be translated as "Voice of the Revolution" or "The Revolution Speaks". See the <a href="/cronicawan-wax/index/">Index</a> for full documentation of the issues displayed on this site and their layouts.
