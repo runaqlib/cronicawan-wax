@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /how-to-use/
+title: How to Use the Site
 ---
-## How to Use the Site
 
 Thank you for visiting _Digitizing Cronicawan_. This site was created to make this rare Quechua-language newspaper accessible for research, reading, and exploration. Below is a quick guide to help navigate the site and materials. 
 
