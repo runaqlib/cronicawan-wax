@@ -1,0 +1,33 @@
+---
+pid: obj08
+page: 9
+language: en
+layout: transcription
+collection: transcriptions
+transcription: |
+  **9**
+  
+  **FRANCE LLAQTAQ REVULUSIUNNIN**
+  
+  _THE FRENCH REVOLUTION_
+  
+  In the history of humankind on earth, there are great events that have marked the end of one era and the beginning of another. Thus, we have what we know as the French Revolution, which marked the end of an entire era: the absolutism of kings. At that time, Europe was divided into kingdoms, and each of these kingdoms was ruled by a king, who had powers that no one could challenge; his will was the law. One of the most important kingdoms in Europe was France, ruled by King Louis XVI. The French Revolution ended the reign of Louis XVI and initiated the collapse of the monarchies of Europe. The culmination of this revolution occurred on July 14, 1789, when the people of Paris rose up and took a fortress. We know this event as the "Storming of the Bastille." Since then, July 14 has been recognized by the French as their National Day. On July 14, 1789, the city of Paris, capital of the Kingdom of France, was shaken by a massive popular movement that brought all royal power to the ground. HOW WAS THE REVOLUTION?
+  
+  But how it was and why, we will explain a little. For many years the "Estates General" had not met (These Estates General were the meeting of: The Nobility, the Clergy and the representatives of the people, called "deputies"). But on May 5, 1789, due to great discontent in France, the King called the Estates General to meet at Versailles. The representatives of the people were called the "Third Estate." At this meeting, the deputies made a series of "propositions" and specific requests to this Assembly, asking for, among other things, reforms in Politics, Finance and Administration of Justice, Freedom of Commerce and Industry and Agriculture, and Freedom of Worship. But until that moment, no one had thought of a violent revolution, everyone aspired to a moderate reform of the State. On June 17, the representatives of the people met in Assembly and declared that from then on, no taxes would be imposed without their consent. The Rcy, upset by this attitude, ordered the session hall to be closed, but Deputies, who elected Bailly as President of the Assembly, sat in another room known as the Chevalier de la Pélet (Ball Court Room), and swore not to secede without first providing France with a Constitution. In other words, from that moment on, the absolutism of the Kings began to be questioned and subjected to the Constitution. On June 20, the King presided over the session of the Three Estates and ordered that the votes not be counted by individuals or delegates, but by delegations or estates, and that each estate delegation should meet separately. The King had the support of the Clergy and Nobility and withdrew with them, but the representatives of the people did not. This attitude gave strength and courage to the people, who demanded the immediate convening of the National Assembly. The King had to give in and ordered the Nobility and the Clergy to meet with the representatives of the people. On July 9, 1789, the National Constituent Assembly convened. Faced with this measure, the King ordered the troops to concentrate around the Palace of Versailles where the People's Assembly was held.
+  
+  THE BASTILLE
+  
+  On July 14, a large crowd gathered in front of the Palace, and the King's Royal Guard launched an attack against them. The deputies harangued the people to resist. The people armed themselves with clubs, iron bars, and knives and attacked a fortress called the Bastille, which was defended by soldiers, firearms, and cannons. However, after a bloody struggle, the people captured the fortress. The King sought support but found none. Meanwhile, the people appointed Bailly, President of the Assembly, Mayor of Paris, and organized themselves into militias. The National Assembly began to discuss the various proposals, and on August 12, the Declaration of the Rights of Man and of the Citizen was approved, the main points of which were as follows:
+  
+  THE RIGHTS OF MAN
+  
+  1. Liberty and Equality. All men are born and live free and equal. The rights of man are liberty, property, security, and resistance to oppression. 2. Sovereignty of the people. 3. Unity of Legislation. -- The law is the expression of the general will and must be equal for all. 4. Equality of Taxation. -- Taxes must be distributed equitably among all citizens according to their abilities. 5. Freedom of the Press, Freedom of Conscience. -- No one should be harassed for their opinions, not even religious ones. 6. All citizens have the right to public employment. With these agreements, the National Constituent Assembly decreed the death of the absolutist system and the abolition of feudal privileges. It was the beginning of the system of civil and political equality.
+  
+  This is known as the French Revolution, and it is said to mark the beginning of Contemporary History, because from it onwards, all absolute monarchies collapsed. It was the first time that the masses, with their actions, liquidated a political power, and above all, because of the influence it had throughout the world, including America, the continent where our country is located.
+  
+  **THE FRENCH REVOLUTION AND PERU**
+  
+  In our country, the French Revolution had a great influence, because the leaders of our Independence saw in the postulates of this Revolution the solution to the sufferings of our people, as a colony of Spain. The ideas that inspired the French Revolution were not born in those days; the ideas that made the French Revolution possible were presented long before. Those who presented these ideas are called "ideologues" and were known as "The Encyclopedists." These men were Voltaire, Rousseau, Montesquieu, Daladier, Dalambert, and others. The works these men wrote, the books they wrote, were banned by the kings of the time so that the people would not rise up, but they were still known. These works were also known to many Americans, including Peruvians, and our precursors and liberators relied on these ideas. They say that Tupac Amaru knew the ideas of these men, which is why, when he rose up against Spanish colonialism, he declared some of these principles. That is why he said that the mita, the obrajes, and the repartitions had to be abolished, that tributes had to be abolished, that people had to be treated with dignity. That is the importance of this. of the French Revolution, which is why it is said to mark the beginning of contemporary history.
+---
+
+{{ page.transcription | markdownify }}

@@ -1,0 +1,19 @@
+---
+pid: obj02
+page: 2
+language: en
+layout: transcription
+collection: transcriptions
+transcription: |
+  **2**
+  
+  **FISHING COMPLEX**FROM PAITA NISQAMANTA**
+  
+  _WHAT IS SAID ABOUT THE COMPLEX_PAITA FISHING BOAT
+  
+  The so-called Paita Fishing Complex is located in the town of Paita, in the north of the country, next to the great ocean. The Revolutionary Government, with considerable funds, built a work center there. In that town, there was no real work, and its inhabitants lived in misery, without proper food. To find sustenance, they fished at sea in small boats, threatened by death. Now, however, with this so-called Paita Fishing Complex, there will be work for everyone; from now on, they will have good jobs and live better lives. Here you can catch all kinds of fish in abundance. These fish are called bonito, horse mackerel, hake, mackerel, tuna, skipjack, toyo, conger eel, ayanque, coconut, cabrilla, whitefish, swordfish, mullet, cojinova corvina, guitar, sawfish, sole, angelfish, pompano, ray, bereche, shellfish. All kinds of fish can be caught there, that's why everyone says this is the richest sea in the world.
+  
+  What is caught here must be for all Peruvians to eat, and the rest we will send to other countries. Now, at a time when hunger is spreading throughout the world, when food is scarce, when there isn't enough potatoes, corn, wheat, or meat, we have plenty of fish, which is good to eat. The Paita Fishing Complex is large and complex; it was built with a lot of money. Only with Peruvian money; no foreign country has invested even a little. The rich from other countries haven't invested their money there. Everything has been done by Peruvians—workers, technicians, engineers—all have been Peruvians. Fish is very good as food, even better than meat. To live healthy and grow healthy, it is necessary to eat fish. So that all Peruvians can eat fish, this great Paita Fishing Complex has been built. From Paita, the fish must reach all the towns of Peru, whether by plane or by car, or on ice. Once the needs of the people throughout the country have been met, the surplus, in the form of canned food, will be sent across the sea to distant countries, to other towns, where it will be sold, and then our country will receive money. On the day the Paita Fishing Complex was inaugurated, eight ministers went there, led by Minister Francisco Morales Bermúdez, who represented the President of the Republic, General Juan Velasco Alvarado. Minister Morales Bermúdez, upon inaugurating the complex, said: "We have built this great project for our country, for the entire country. Our sea is a very rich sea, where a great variety of fish can be found. From now on, all the wealth of our sea will remain ours. From now on, the imperialists will no longer come to plunder our marine resources; they will no longer take our wealth. From now on, by working, we will have good food to send to other countries." This Paita Fishing Complex was built with considerable money; it cost 3.27 billion soles. 3,500 people will have jobs here, and they will be provided with housing. There is also a large building that will serve as accommodation for visitors. This Paita Fishing Complex began operating on May 21, 1975. That day, the people of Paita, as one man, raised their voices, saying, "Long live General Juan Velaco Alvarado!" "Long live the Revolution!" This Paita Fishing Complex is not just for the people of Paita; it's for all the people of Peru. We have already said that all kinds of fish will be caught there, and that whatever is caught there, all of us will be able to buy. It will be sold in all the towns. That is why we look upon the Paita Fishing Complex with joy; that is why we are writing this so that all of Peru may receive it with goodwill.
+---
+
+{{ page.transcription | markdownify }}

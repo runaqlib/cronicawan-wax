@@ -1,0 +1,69 @@
+{% assign links = site[page.collection] | sort: 'order' | map: 'url' %}
+{% assign labels = site[page.collection] | sort: 'order' | map: 'label' %}
+{% for link in links %}
+  {% if link == page.url %}
+    {% assign current_index = forloop.index0 %}
+    {% assign total_links = links.size %}
+    {% if forloop.first %}
+      {% assign prev_index = total_links | minus: 1 %}
+      {% assign next_index = forloop.index %}
+    {% elsif forloop.last %}
+      {% assign prev_index = forloop.index0 | minus: 1 %}
+      {% assign next_index = 0 %}
+    {% else %}
+      {% assign prev_index = forloop.index0 | minus: 1 %}
+      {% assign next_index = forloop.index %}
+    {% endif %}
+  {% endif %}
+{% endfor %}
+
+{% if links and labels %}
+  <div class="issue-pagination">
+    <div class="prev-issue">
+      <a href="{{ links[prev_index] | absolute_url }}">
+        ← See previous issue
+        <div class="issue-title">
+          {{ labels[prev_index] }}
+        </div>
+      </a>
+    </div>
+
+    <div class="next-issue">
+      <a href="{{ links[next_index] | absolute_url }}">
+        See next issue →
+        <div class="issue-title">
+          {{ labels[next_index] }}
+        </div>
+      </a>
+    </div>
+  </div>
+{% endif %}
+
+<style>
+.issue-pagination {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-top: 2rem;
+  padding-top: 1rem;
+  border-top: 1px solid #ccc;
+  gap: 1rem;
+}
+
+.issue-pagination a {
+  text-decoration: none;
+  color: inherit;
+  font-size: 1rem;
+  max-width: 200px; /* limit the width to control wrapping */
+  display: block;
+}
+
+.issue-title {
+  font-weight: bold;
+  margin-top: 0.3rem;
+  font-size: 1rem;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  line-height: 1.2;
+}
+</style>
