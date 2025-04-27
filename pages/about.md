@@ -12,6 +12,8 @@ During this time, Velasco passed a variety of reforms focused on economic redist
 
 These conditions are what made the creation of _Cronicawan_, a state-supported Quechua-language newspaper, possible.
 
+---
+
 ### About _Cronicawan_
 
 **_Cronicawan_ was published briefly for 16 or 17 issues in 1975.**  

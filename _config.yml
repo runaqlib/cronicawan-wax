@@ -83,7 +83,7 @@ search:
     index: '/search/index.json' # file the index will get written to
     collections:
       cronicawan:
-        content: false # whether or not to index page content
+        content: true # whether or not to index page content
         fields: # the metadata fields to index
           - creator
           - location
@@ -91,13 +91,6 @@ search:
           - _date
           - object_type
           - edition
-      transcriptions:
-        content: false # whether or not to index page content
-        fields: # the metadata fields to index
-          - pid
-          - page
-          - language
-          - transcription
     
 
 # --------------------------------------------------------------

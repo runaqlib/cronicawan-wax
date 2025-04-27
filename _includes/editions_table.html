@@ -1,0 +1,27 @@
+<table>
+  <thead>
+    <tr>
+      <th><strong>Preview</strong></th>
+      <th><strong>Edition</strong></th>
+      <th><strong>Title</strong></th>
+      <th><strong>Date</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    {% assign skip_edition = 13 %}
+    {% for item in site.cronicawan %}
+      {% if item.edition != skip_edition %}
+        <tr>
+          <td>
+            <a href="{{ item.url | absolute_url }}">
+              <img src="{{ item.thumbnail | absolute_url }}" alt="{{ item.label }}" width="100" />
+            </a>
+          </td>
+          <td><strong>{{ item.edition }}</strong></td>
+          <td><a href="{{ item.url | absolute_url }}">{{ item.label }}</a></td>
+          <td>{{ item._date }}</td>
+        </tr>
+      {% endif %}
+    {% endfor %}
+  </tbody>
+</table>

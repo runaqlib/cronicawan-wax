@@ -6,6 +6,8 @@ title: How to Use the Site
 
 Thank you for visiting _Digitizing Cronicawan_. This site was created to make this rare Quechua-language newspaper accessible for research, reading, and exploration. Below is a quick guide to help navigate the site and materials. 
 
+--- 
+
 ### Browsing the Editions
 
 You can begin exploring Cronicawan through the [Index](/cronicawan-wax/index/) or [Browse](/cronicawan-wax/browse/) page, which lists each edition in order. The index includes more context for what is published within the editions. Click on any edition to see:
@@ -14,6 +16,8 @@ You can begin exploring Cronicawan through the [Index](/cronicawan-wax/index/) o
 - A **transcription viewer** that presents text from each page 
 - Metadata 
 - IIIF Manifest for the edition 
+
+--- 
 
 ### Reading the Newspaper 
 
@@ -36,6 +40,7 @@ Each edition has two key viewing tools:
 - **No additional translation of Quechua into Spanish or English** has been added beyond what the original newspaper offered. This is to honor the integrity of the authors, the Quechua language, and to avoid introducing my own inaccuracies and attitudes that come with translating languages. 
 - **<span style="color:red">Important!</span> Issues 1-11 and 12-16 display differently.** Because issues 12-16 publish in Quechua and Spanish side-by-side, the transcription viewer will show the **same transcription** for both Quechua and Spanish selectors. Each page will have Quechua, followed by Spanish transcriptions. Likewise, the English view for these editions will show Quechua, followed by English translations. 
 
+---
 
 ### Metadata and IIIF 
 Each edition of Cronicawan includes the following metadata: 
@@ -45,6 +50,8 @@ Each edition of Cronicawan includes the following metadata:
 - **Date**: The original publication date 
 - **Edition**: The issue number  
 - **IIIF Manifest**: A special link for accessing the edition in other digital tools (see below) 
+
+---
 
 ### Using IIIF 
 IIIF (International Image Interoperability Framework) is a standard that allows high-resolution images and their metadata to be shared across different platforms, the IIIF manifest link included with each edition lets you: 
