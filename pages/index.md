@@ -17,7 +17,7 @@ This index includes an editions overview, and an overview of topics for each edi
 ## How to Use This Archive
 Click on any edition title or thumbnail to open that specific page. You can explore the transcriptions of the articles and view the original scanned pages.
 
-For more information, visit the **About** section or contact us at [email@example.com](mailto:email@example.com).
+For more information, visit the **About** section. 
 
 ---
 
