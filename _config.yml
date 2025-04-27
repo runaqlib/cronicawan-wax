@@ -17,8 +17,8 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'Cronicawan'
-description:      'Periodicos en Quechua de Peru de los años 1970s'
+title:            'Digitizing Cronicawan'
+description:      'Documenting Quechua writings of the 1975 Peruvian revolution'
 url:              'https://runaqlib.github.io'
 baseurl:          '/cronicawan-wax'
 #copyright:        'Example copyright org, 2023'
