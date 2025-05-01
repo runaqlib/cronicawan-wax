@@ -3,7 +3,7 @@ layout: page
 title: About The Digitization Project
 permalink: /digitization-project/
 ---
-
+_Digitizing Cronicawan_ is a project by Alía Warsco. View more details on the [contact and credits page](/cronicawan-wax/credits).
 
 <a href="{{ '/img/cbc.png' | absolute_url }}">
   <img src="{{ '/img/cbc.png' | absolute_url }}" alt="A view of the exterior of the Centro Bartolome de las Casas in Cusco, Peru"/>

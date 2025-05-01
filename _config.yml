@@ -115,7 +115,7 @@ menu:
     link: "/collection/"
   - label: "Search"
     link: "/search/"
-  - label: "View in Spanish"
+  - label: "Ver en Español"
     link: "https://runaqlib.github.io/cronicawan-esp/"
 
 
