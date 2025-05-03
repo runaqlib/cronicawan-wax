@@ -91,6 +91,54 @@ search:
           - _date
           - object_type
           - edition
+          - page1-eng
+          - page2-eng
+          - page3-eng
+          - page4-eng
+          - page5-eng
+          - page6-eng
+          - page7-eng
+          - page8-eng
+          - page9-eng
+          - page10-eng
+          - page11-eng
+          - page12-eng
+          - page13-eng
+          - page14-eng
+          - page15-eng
+          - page16-eng
+          - page1-esp
+          - page2-esp
+          - page3-esp
+          - page4-esp
+          - page5-esp
+          - page6-esp
+          - page7-esp
+          - page8-esp
+          - page9-esp
+          - page10-esp
+          - page11-esp
+          - page12-esp
+          - page13-esp
+          - page14-esp
+          - page15-esp
+          - page16-esp
+          - page1-que
+          - page2-que
+          - page3-que
+          - page4-que
+          - page5-que
+          - page6-que
+          - page7-que
+          - page8-que
+          - page9-que
+          - page10-que
+          - page11-que
+          - page12-que
+          - page13-que
+          - page14-que
+          - page15-que
+          - page16-que
     
 
 # --------------------------------------------------------------
