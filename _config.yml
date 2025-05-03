@@ -161,10 +161,10 @@ menu:
     link: "/index/"
   - label: "Browse"
     link: "/collection/"
-  - label: "Search"
-    link: "/search/"
   - label: "Ver en Español"
     link: "https://runaqlib.github.io/cronicawan-esp/"
+  - label: "Search 🔍"
+    link: "/search/"
 
 
 # --------------------------------------------------------------
